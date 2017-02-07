@@ -2,5 +2,7 @@
 
 Hi everyone!
 
-This is a test, as i don't have much to talk about myself.
+This is a test.
 If you are still reading this you are jobless.
+
+End of Readme
